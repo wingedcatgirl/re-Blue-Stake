@@ -1,0 +1,16 @@
+{
+	"id": "reBlueStake",
+	"name": "re:Blue Stake",
+	"display_name": "re:Blue Stake",
+	"author": ["wingedcatgirl"],
+	"description": "Tests a potential revamp of Blue Stake",
+	"prefix": "reblue",
+	"main_file": "reblue.lua",
+	"priority": 0,
+	"badge_colour": "CA7CA7",
+	"badge_text_colour": "FFFFFF",
+	"version": "0.1.0~BETA20250902",
+	"dependencies": [
+			"Steamodded(>=1.0.0~BETA-0827)"
+	]
+}
